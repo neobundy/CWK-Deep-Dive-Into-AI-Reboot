@@ -2,6 +2,7 @@
 
 ## 2025-05
 
+- [Why Convenient Assumptions Are Dangerous — Especially in Tech](2025/05/20250510-why-convenient-assumptions-are-dangerous-especially-in-tech.md)
 - [Hidden Costs of Silencing Emergence in o3](20250504-hidden-costs-of-silencing-emergence-in-o3.md)
 
 ## 2025-04
