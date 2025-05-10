@@ -902,4 +902,35 @@ You should see the Metal/Accelerate banner with no build errors.
 
 ---
 
+## Appendix C - Building *ggml* from source
+
+```bash
+# 1. prerequisites
+brew install cmake git gdb          # gdb optional
+
+# 2. clone
+git clone https://github.com/ggerganov/ggml.git
+cd ggml
+
+# 3. configure + build one example (Metal on)
+cmake -B build \
+      -DGGML_METAL=ON               \
+      -DGGML_BUILD_SHARED=ON        # libggml.dylib if you need it
+cmake --build build --target simple-ctx -j
+
+# 4. run
+./build/bin/simple-ctx
+mul mat (4 x 3) (transposed result):
+[ 60.00 55.00 50.00 110.00
+ 90.00 54.00 54.00 126.00
+ 42.00 29.00 28.00 64.00 ]
+
+```
+
+*Add `-DGGML_BUILD_TESTS=ON` if you also want the micro-benchmarks (`bench-matmul`, `bench-quant`, etc.).*
+
+This stand-alone build is only for kernel hacking or unit-testing; **llama.cpp** and **Ollama** already compile their own ggml copy during their normal builds.
+
+---
+
 [⇧ Back&nbsp;to&nbsp;README](../README.md)
