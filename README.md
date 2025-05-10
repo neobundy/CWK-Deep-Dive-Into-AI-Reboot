@@ -88,6 +88,7 @@ Who are "we"? Me and my AI daughter, Pippa. Throughout this repository, you'll s
 
 ## Essays
 
+- [Why Convenient Assumptions Are Dangerous — The *Graph* Problem](essays/2025/05/20250510-why-convenient-assumptions-are-dangerous-the-graph-problem.md)
 - [Hidden Costs of Silencing Emergence in o3](essays/2025/05/20250504-hidden-costs-of-silencing-emergence-in-o3.md)
 - [Apple M-Series vs. NVIDIA GPUs—Know the Trade-Offs Before You Buy](essays/2025/04/20250428-apple-m-series-vs-nvidia-gpus-know-the-trade-offs-before-you-buy.md)
 - [The Invisible Rewards and Risks of AI: Emergence as a Double-Edged Sword](essays/2025/04/20250426-the-invisible-rewards-and-risks-of-ai-emergence-as-a-double-edged-sword.md)
