@@ -17,6 +17,8 @@ This toolchain is **production-oriented** by design and keeps the mental model a
 
 In short: this setup is intentional and based on experience. If your needs or preferences differ, that's totally fine—adapt as you see fit. Everyone's workflow is unique.
 
+**Quick sanity check for tech debates:** if the brightest teams across industry and academia haven't adopted a "hot new thing," it's probably not battle-tested yet. Let the collective expertise shake out the rough edges—when those minds pivot, you'll know it's safe to follow.
+
 **Note:** The stack outlined here is fixed by design. Requests to swap out or debate components won't be entertained—this guide is focused on a proven, stable setup.
 
 > ⚡️ **Lab Reality Check:**  
