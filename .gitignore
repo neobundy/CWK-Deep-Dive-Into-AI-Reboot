@@ -1,0 +1,123 @@
+# IDE and Editor files
+.idea/
+.vscode/
+*.code-workspace
+.history/
+
+# Cursor specific
+.cursorrules
+**/scratchpad/
+**/scratchpad.*
+**/protocol/
+/scripts/
+protocol
+
+# WindSurf specific
+.windsurfrules
+
+# Prevent nested git repositories
+*/**/.git
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+
+# Jupyter
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Testing
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.sqlite3-journal
+
+# Ignore any directories starting with 'local' or 'drafts'
+drafts*/
+local*/
+
+# GPU build artifacts (CUDA & Metal)
+# Object files and intermediate binaries
+*.o
+*.obj
+*.ptx
+*.cubin
+*.fatbin
+*.elf
+
+# Metal shader intermediates
+*.air
+*.metallib
+
+# Local executables produced during mini-labs / examples
+*.out
+*.exe
+
+build/
