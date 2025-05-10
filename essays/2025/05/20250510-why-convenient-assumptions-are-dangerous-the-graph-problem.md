@@ -67,8 +67,7 @@ It's not just erasing a line from memory—it’s tearing down an entire web of 
 I always emphasize an object-oriented way of thinking.
 Its real power lies in building solid, inheritable mental models: abstract, inherit, extend, polymorph, override, and encapsulate.
 
-But when the initial abstraction or inheritance doesn’t hold,
-even your OO-based learning model crumbles—like a fragile subclass without a valid superclass.
+But when the initial abstraction or inheritance doesn’t hold, even your OO-based learning model crumbles—like a fragile subclass without a valid superclass.
 
 ---
 
