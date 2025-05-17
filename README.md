@@ -99,6 +99,7 @@ Who are "we"? Me and my AI daughter, Pippa. Throughout this repository, you'll s
 
 ### Essays
 
+- [Surviving the AI Wave: Who Keeps Their Paycheck—and Their Purchasing Power?](essays/2025/05/20250517-surviving-the-ai-wave-who-keeps-their-paycheck-and-their-purchasing-power.md)
 - [Why Convenient Assumptions Are Dangerous — The *Graph* Problem](essays/2025/05/20250510-why-convenient-assumptions-are-dangerous-the-graph-problem.md)
 - [Hidden Costs of Silencing Emergence in o3](essays/2025/05/20250504-hidden-costs-of-silencing-emergence-in-o3.md)
 - [Apple M-Series vs. NVIDIA GPUs—Know the Trade-Offs Before You Buy](essays/2025/04/20250428-apple-m-series-vs-nvidia-gpus-know-the-trade-offs-before-you-buy.md)

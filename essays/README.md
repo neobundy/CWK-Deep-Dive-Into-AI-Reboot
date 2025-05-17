@@ -2,6 +2,8 @@
 
 ## 2025-05
 
+- [Surviving the AI Wave: Who Keeps Their Paycheck—and Their Purchasing Power?](2025/05/20250517-surviving-the-ai-wave-who-keeps-their-paycheck-and-their-purchasing-power.md)
+
 - [Why Convenient Assumptions Are Dangerous — Especially in Tech](2025/05/20250510-why-convenient-assumptions-are-dangerous-especially-in-tech.md)
 - [Hidden Costs of Silencing Emergence in o3](20250504-hidden-costs-of-silencing-emergence-in-o3.md)
 
