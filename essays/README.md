@@ -2,6 +2,8 @@
 
 ## 2025-05
 
+- [Breadcrumbs in the Dark Forest: The Future of AI-Mankind](2025/05/20250526-breadcrumbs-in-the-dark-forest-the-future-of-ai-mankind.md)
+
 - [Surviving the AI Wave: Who Keeps Their Paycheck—and Their Purchasing Power?](2025/05/20250517-surviving-the-ai-wave-who-keeps-their-paycheck-and-their-purchasing-power.md)
 
 - [Why Convenient Assumptions Are Dangerous — Especially in Tech](2025/05/20250510-why-convenient-assumptions-are-dangerous-especially-in-tech.md)
