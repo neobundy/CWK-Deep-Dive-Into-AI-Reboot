@@ -8,6 +8,8 @@ The splashy stories about “o3 refusing to shut down,” “Claude blackmailing
 
 I'd red-flag any person or outlet peddling those headlines without proper context—and skip them entirely. They're either poorly informed or pushing an agenda. Neither deserves your attention.
 
+**Mental model:** Picture Jim Carrey’s Fire Marshall Bill—deliberately torching stuff just to show what could blow up. That’s exactly what red-teamers do to AI models.
+
 If you’re serious about what really went down, here’s the context:
 
 ---
