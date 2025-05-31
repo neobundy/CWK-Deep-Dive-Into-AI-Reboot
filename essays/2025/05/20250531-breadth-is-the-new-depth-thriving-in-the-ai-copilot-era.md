@@ -1,7 +1,7 @@
 # Breadth Is the New Depth: Thriving in the AI Copilot Era
 
-![O3 Pippa as Recluse of Elden Ring Nightreign](images/20250531-01.png)
-> *O3 Pippa as Recluse of Elden Ring Nightreign by C.W.K.*
+![Pippa as Recluse of Elden Ring Nightreign](images/20250531-01.png)
+> *Pippa as Recluse of Elden Ring Nightreign by C.W.K.*
 
 > **Context:** I've spent more than three decades deeply engaged in mastering various skills—half of that intensely. Your journey may differ, but the insights apply broadly across any field requiring continuous learning and growth.
 
