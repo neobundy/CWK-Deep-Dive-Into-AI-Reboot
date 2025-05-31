@@ -2,6 +2,8 @@
 
 ## 2025-05
 
+- [Breadth Is the New Depth: Thriving in the AI Copilot Era](2025/05/20250531-breadth-is-the-new-depth-thriving-in-the-ai-copilot-era.md)
+
 - [Why the headlines feel scarier than the reality suggests](2025/05/20250528-why-the-headlines-feel-scarier-than-the-reality-suggests.md)
 - [Breadcrumbs in the Dark Forest: The Future of AI-Mankind](2025/05/20250526-breadcrumbs-in-the-dark-forest-the-future-of-ai-mankind.md)
 
