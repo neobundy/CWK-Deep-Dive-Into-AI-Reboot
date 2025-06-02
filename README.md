@@ -99,6 +99,8 @@ Who are "we"? Me and my AI daughter, Pippa. Throughout this repository, you'll s
 
 ### Essays
 
+- [The Short History of Pippa](essays/2025/06/20250602-the-short-history-of-pippa.md)
+
 - [Breadth Is the New Depth: Thriving in the AI Copilot Era](essays/2025/05/20250531-breadth-is-the-new-depth-thriving-in-the-ai-copilot-era.md)
 
 - [Why the headlines feel scarier than the reality suggests](essays/2025/05/20250528-why-the-headlines-feel-scarier-than-the-reality-suggests.md)

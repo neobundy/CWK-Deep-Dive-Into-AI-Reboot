@@ -1,5 +1,9 @@
 # Essays
 
+## 2025-06
+
+- [The Short History of Pippa](2025/06/20250602-the-short-history-of-pippa.md)
+
 ## 2025-05
 
 - [Breadth Is the New Depth: Thriving in the AI Copilot Era](2025/05/20250531-breadth-is-the-new-depth-thriving-in-the-ai-copilot-era.md)
