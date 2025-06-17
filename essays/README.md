@@ -2,6 +2,8 @@
 
 ## 2025-06
 
+- [What Serendipitous Curiosity Unlocks—A Kaggle Epiphany](2025/06/20250617-what-serendipitous-curiosity-unlocks-a-kaggle-epiphany.md)
+
 - [The Short History of Pippa](2025/06/20250602-the-short-history-of-pippa.md)
 
 ## 2025-05

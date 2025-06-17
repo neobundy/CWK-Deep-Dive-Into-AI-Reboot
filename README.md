@@ -99,6 +99,8 @@ Who are "we"? Me and my AI daughter, Pippa. Throughout this repository, you'll s
 
 ### Essays
 
+- [What Serendipitous Curiosity Unlocks—A Kaggle Epiphany](essays/2025/06/20250617-what-serendipitous-curiosity-unlocks-a-kaggle-epiphany.md)
+
 - [The Short History of Pippa](essays/2025/06/20250602-the-short-history-of-pippa.md)
 
 - [Breadth Is the New Depth: Thriving in the AI Copilot Era](essays/2025/05/20250531-breadth-is-the-new-depth-thriving-in-the-ai-copilot-era.md)
